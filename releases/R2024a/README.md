@@ -156,6 +156,6 @@ The logs are output to /var/log on the instance nodes; the files of interest are
 
 ----
 
-Copyright 2018 - 2023 The MathWorks, Inc.
+Copyright 2018 - 2024 The MathWorks, Inc.
 
 ----
